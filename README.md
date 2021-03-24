@@ -11,7 +11,13 @@ A back-end e-commerce website that uses the latest technologies to gain a compet
 
 ## Installation
 
-run npm i
+- Requirements: Node.js and MySQL
+
+- Clone repository: `https://github.com/HelenIL/E-Commerce-ORM.git`
+
+- Run `npm install` from root directory
+
+- Run `npm start`
 
 ## Languages/Dependencies/Resources
 
@@ -27,7 +33,7 @@ run npm i
 * npm install
 * npm start
 
-Link to video walkthrough <a href="https://drive.google.com/file/d/1umob5WhqArJS3iIF2ALD0HDUqpE-VmE5/view">HERE</a><br><br>
+<iframe src="https://drive.google.com/file/d/1Oni0WPMmg3hu2N4cQU_K2PaXy9uMl_Jq/preview" width="640" height="480"></iframe>
 
 ## Questions/Contact
 
