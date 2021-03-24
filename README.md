@@ -33,7 +33,7 @@ A back-end e-commerce website that uses the latest technologies to gain a compet
 * npm install
 * npm start
 
-<iframe src="https://drive.google.com/file/d/1Oni0WPMmg3hu2N4cQU_K2PaXy9uMl_Jq/preview" width="640" height="480"></iframe>
+<a href="https://drive.google.com/file/d/1Oni0WPMmg3hu2N4cQU_K2PaXy9uMl_Jq/view">Video Walkthrough</a><br><br>
 
 ## Questions/Contact
 
